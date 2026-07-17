@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ronfl3x.github.io/tryhikoo-github-pages/sitemap.xml
